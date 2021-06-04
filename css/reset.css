@@ -33,6 +33,7 @@ footer, header, hgroup, menu, nav, section {
 }
 html{
   width: 100%;
+  min-width: 1100px;
   height: 100%;
   overflow: hidden;
   font-size: 10px;
